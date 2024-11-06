@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import man from "@/app/icons/man.png";
-import woman from "@/app/icons/Woman.png";
+import woman from "@/app/icons/woman.png";
 import kid from "@/app/icons/kid.png";
 import cosmatic from "@/app/icons/cosmetics.png";
 import accessories from "@/app/icons/sunglasses.png";
